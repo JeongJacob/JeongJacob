@@ -32,7 +32,7 @@
  
  <hr />
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINSE97&hide=stars&show_icons=true&theme=gruvbox_light&border_color=FFFF00&bg_color=transparent&text_color=4F200D&icon_color=FF8400&title_color=E2C799)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongJacob&hide=stars&show_icons=true&theme=gruvbox_light&border_color=FFFF00&bg_color=transparent&text_color=4F200D&icon_color=FF8400&title_color=E2C799)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MINSE97&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongJacob&layout=compact)
 </div>
